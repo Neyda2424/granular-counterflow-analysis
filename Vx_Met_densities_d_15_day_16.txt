@@ -1,0 +1,6 @@
+met pf vx_mean_Metallic vx_mean_Small_Plastics vx_mean_Big_Plastics
+0.0509 0.6377 -0.2701 ?
+0.0990 0.6214 -0.2247 ?
+0.2007 0.6133 -0.0719 ?
+0.2997 0.5894 0.1997 ?
+0.3987 0.5910 0.3505 ?
