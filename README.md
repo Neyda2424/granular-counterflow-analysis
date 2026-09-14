@@ -1,1 +1,1 @@
-The velocities code and the histograms were made by Neyda Armendáriz and the Tracking-by-Particle code by Sara Levay.
+The velocities code and the histograms were made by Neyda Armendáriz and the Tracking-by-Particle code by Sara Levay. In the histograms in general, the graphs with the analysis of all types of particles are green, the graphs of metallic particles are blue, and the plastic ones are red
